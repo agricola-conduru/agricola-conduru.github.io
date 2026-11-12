@@ -1,0 +1,16 @@
+.elementor-kit-6{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"BN Cringe Serif";--e-global-typography-primary-font-size:60px;--e-global-typography-primary-font-weight:500;--e-global-typography-secondary-font-family:"BN Cringe Serif";--e-global-typography-secondary-font-size:35px;--e-global-typography-secondary-font-weight:400;--e-global-typography-secondary-line-height:40px;--e-global-typography-text-font-family:"HubotSans_SemiExpanded-Regular";--e-global-typography-text-font-size:20px;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"HubotSans_SemiExpanded-Regular";--e-global-typography-accent-font-size:24px;--e-global-typography-accent-font-weight:500;}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header{padding-inline-end:0px;padding-inline-start:0px;}@media(max-width:1024px){.elementor-kit-6{--e-global-typography-primary-font-size:55px;--e-global-typography-secondary-font-size:32px;--e-global-typography-text-font-size:20px;--e-global-typography-accent-font-size:24px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-6{--e-global-typography-primary-font-size:35px;--e-global-typography-secondary-font-size:24px;--e-global-typography-secondary-line-height:29px;--e-global-typography-text-font-size:16px;--e-global-typography-accent-font-size:20px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'BN Cringe Serif';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('/wp-content/uploads/2025/04/BNCringeSerifLight.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'HubotSans_SemiExpanded-Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('/wp-content/uploads/2025/04/HubotSans_SemiExpanded-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
